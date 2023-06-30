@@ -1,6 +1,6 @@
 # Marvins Project
 
-my *awesome project*
+my **awesome project**
 
 Date: 2023-06-30
 
